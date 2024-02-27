@@ -1,9 +1,9 @@
 #include<stdio.h>
 #include<iostream>
 
-// A simple Class driven program to check weather a number is even or odd
 
-class IsEven{
+
+class IsEven{  //Write a function that determines if a given number is even or not
 public:
 
     void iseven(int x)
